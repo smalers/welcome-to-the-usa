@@ -1,12 +1,12 @@
 # A Welcome to USA "Citizenship" / Rights and Privileges of a Citizen #
 
-**Rights and Privileges of a Citizen**
+*Rights and Privileges of a Citizen*
 
 I may think as I please.
 
 I may speak or write as I please, so long as I do not interfere with the rights of others.
 
-I have hte right to vote.  By my vote I choose the public officers
+I have the right to vote.  By my vote I choose the public officers
 who are really my servants.
 
 I have the right to choose my work, to seek any job for which
@@ -25,7 +25,7 @@ natural resources of my country.
 
 I may educate my children in free schools.
 
-I have the right to worship ans I think best.
+I have the right to worship as I think best.
 
 I have the right to "life, liberty, and the pursuit of happiness."
 

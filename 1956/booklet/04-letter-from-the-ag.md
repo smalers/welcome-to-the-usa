@@ -25,5 +25,5 @@ now share with them the opportunity to help preserve and
 carry out the principles of freedome and justice.
 
 Herbert Brownell, Jr.
-Attorney General
 
+Attorney General

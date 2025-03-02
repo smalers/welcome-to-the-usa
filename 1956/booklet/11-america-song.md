@@ -21,17 +21,17 @@ Like that above.
 Let music swell the breeze,   
 And ring from all the trees   
 Sweet freedom's song:   
-Let mortal tonges awake;   
+Let mortal tongues awake;   
 Let all that breathe partake;   
 Let rocks their silence break,   
 The sound prolong.
 
-Our fathers' God, to Thee,
-Author of liberty,
-To Thee we sing.
-Long may our land be bright
-With freedom's holy light;
-Protect us by THy might,
+Our fathers' God, to Thee,   
+Author of liberty,   
+To Thee we sing.   
+Long may our land be bright   
+With freedom's holy light;   
+Protect us by Thy might,   
 Great God, our King!
 
 ---

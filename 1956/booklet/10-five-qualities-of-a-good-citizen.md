@@ -1,6 +1,6 @@
 # A Welcome to USA "Citizenship" / The Five Qualities of the Good Citizen #
 
-*The Five Qualities of a Good Citizen(1)*
+*The Five Qualities of the Good Citizen(1)*
 
 THE GOOD CITIZEN *cherishes democratic values and bases his actions on them.*
 

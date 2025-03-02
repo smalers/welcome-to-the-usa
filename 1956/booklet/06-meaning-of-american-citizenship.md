@@ -14,8 +14,8 @@ longer a subject of a government. Henceforth, you are an
 integral part of this Government -- a freeman -- a Citizen of
 the United States of America.
 
-This citizenship, which as been solemnly conferred on you,
-is a thing of the spirit -- not of the flesh.  WHen you took the
+This citizenship, which has been solemnly conferred on you,
+is a thing of the spirit -- not of the flesh.  When you took the
 oath of allegiance to the Constitution of the United States you
 claimed for yourself the God-given unalianable rights which
 that sacred document sets fort as the natural right of all
@@ -30,7 +30,7 @@ As you have learned during these years of preparation, this
 great honor carries with it the duty to work for and make secure
 this longed for and eagerly sought status.  Government
 under our Constitution makes American citizenship the highest
-privilege nd at the same time the greatest responsibility
+privilege and at the same time the greatest responsibility
 of any citezenship in the world.
 
 The important rights that are now yours and the duties and

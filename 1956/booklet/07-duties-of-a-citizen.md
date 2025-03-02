@@ -13,7 +13,7 @@ candidates for public office.
 It is my duty, by my votes and my influence, to correct injustice.
 
 It is my duty to pay such taxes as have been devised by my representatives
-delected by me, to defray the cost of government.
+selected by me, to defray the cost of government.
 
 It is my duty to serve on jury when called on.
 
