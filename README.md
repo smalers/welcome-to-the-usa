@@ -43,7 +43,7 @@ and 25% quality JPG is used in the links below to use smaller files.
 *   American's Creed ( [`md`](1956/booklet/05-americans-creed.md) | [`jpg`](1956/booklet/05-americans-creed.jpg) )   
 *   The Meaning of American Citizenship ( [`md`](1956/booklet/06-meaning-of-american-citizenship.md) | [`jpg`](1956/booklet/06-meaning-of-american-citizenship.jpg) )   
 *   The Duties of a Citizen ( [`md`](1956/booklet/07-duties-of-a-citizen.md) | [`jpg`](1956/booklet/07-duties-of-a-citizen.jpg) )   
-*   Rights and Priveleges of a Citizen ( [`md`](1956/booklet/08-rights-and-priveleges-of-a-citizen.md) | [`jpg`](1956/booklet/08-rights-and-priveleges-of-a-citizen.jpg) )   
+*   Rights and Privileges of a Citizen ( [`md`](1956/booklet/08-rights-and-privileges-of-a-citizen.md) | [`jpg`](1956/booklet/08-rights-and-privileges-of-a-citizen.jpg) )   
 *   Oath of Allegiance ( [`md`](1956/booklet/09-oath-of-allegiance.md) | [`jpg`](1956/booklet/09-oath-of-allegiance.jpg) )   
 *   The Five Qualities of the Good Citizen ( [`md`](1956/booklet/10-five-qualities-of-a-good-citizen.md) | [`jpg` 1](1956/booklet/10-five-qualities-of-a-good-citizen-1.jpg) | [`jpg` 2](1956/booklet/10-five-qualities-of-a-good-citizen-2.jpg) )   
 *   America (song) ( [`md`](1956/booklet/11-america-song.md) | [`jpg`](1956/booklet/11-america-song.jpg) )
