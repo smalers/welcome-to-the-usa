@@ -47,3 +47,10 @@ and 25% quality JPG is used in the links below to use smaller files.
 *   Oath of Allegiance ( [`md`](1956/booklet/09-oath-of-allegiance.md) | [`jpg`](1956/booklet/09-oath-of-allegiance.jpg) )   
 *   The Five Qualities of the Good Citizen ( [`md`](1956/booklet/10-five-qualities-of-a-good-citizen.md) | [`jpg` 1](1956/booklet/10-five-qualities-of-a-good-citizen-1.jpg) | [`jpg` 2](1956/booklet/10-five-qualities-of-a-good-citizen-2.jpg) )   
 *   America (song) ( [`md`](1956/booklet/11-america-song.md) | [`jpg`](1956/booklet/11-america-song.jpg) )
+
+## 2015 ##
+
+This is a current document that is available.
+
+*   [Welcome to the United States - A Guide for New Immigrants](https://www.uscis.gov/sites/default/files/document/guides/M-618.pdf)
+*   [Welcome to the United States - A Guide for New Immigrants](2015/WelcomeToTheUnitedStates-2015-09.pdf) - archived copy
