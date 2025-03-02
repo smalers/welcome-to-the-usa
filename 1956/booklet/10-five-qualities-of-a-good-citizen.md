@@ -1,4 +1,4 @@
-# A Welcome to USA "Citizenship" / The Five QUalities of the Good Citizen #
+# A Welcome to USA "Citizenship" / The Five Qualities of the Good Citizen #
 
 *The Five Qualities of a Good Citizen(1)*
 
@@ -8,10 +8,10 @@ The good citizen gives allegiance to the ideals of democracy.
 He cherishes values which are consistent with the democratic
 way of life and lives in the spirit of those values.  He has
 respect for the dignity and worth of human personality.  He
-has fain in man's ability to solve common problems through
+has faith in man's ability to solve common problems through
 the process of thinking.  He is concerned with the general
 welfare of all people; he believes that human culture belongs
-to all men.  He is loyal to the principals of equality of opportunity
+to all men.  He is loyal to the principles of equality of opportunity
 for all.  All other characteristics of the good citizen
 stem from, and are part of this primary quality.
 
@@ -32,16 +32,16 @@ times and has the will and the ability to work toward their
 solution.*
 
 The good citizen recognizes and endeavors to help in the
-solution of social problems; problems of race, relition, economics,
+solution of social problems; problems of race, religion, economics,
 politics -- problems of the role of government in relation
 to the people; problems of the United States in the place
 of world affairs; problems of the equitable use of resources;
 problems of family, school, community, and neighborhood living.
 
-THE GOOD CITIZEN *is aware of and takes reponsibility
+THE GOOD CITIZEN *is aware of and takes responsibility
 for meeting basic human needs.*
 
-THe good citizen is aware of the importance of meeting human
+The good citizen is aware of the importance of meeting human
 needs and is concerned with the extension of the essentials
 of life to more individuals.  All people have certain basic
 human needs; the need to be free from aggression, domination,
@@ -50,19 +50,19 @@ to belong to groups and to be helped by others; the need for a
 level of living which provides for adequate health, housing,
 ethical, and moral values.  The failure to meet these fundamental
 human needs may result in the development of maladjustments
-which inrease the intensity of social problems.
+which increase the intensity of social problems.
 
 THE GOOD CITIZEN *possesses and uses knowledge, skills,
 and abilities necessary in a democratic society.*
 
-The good citizen posseses knowledge, skills, and abilities
+The good citizen possesses knowledge, skills, and abilities
 through facility in reading, listening, discussing, and observing.
-He uses these skils and abilities in order to gain understanding
+He uses these skills and abilities in order to gain understanding
 of the present structure and functioning of society,
-the working principles of repreentative government, the
+the working principles of representative government, the
 impact of social stratification of the population, and the relationship
 of all these to the complex social heritage.  With knowledge,
-skills, and abilities as a basis, the good citizen beomes more
+skills, and abilities as a basis, the good citizen becomes more
 proficient in civic action.
 
 ---
