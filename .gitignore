@@ -1,0 +1,18 @@
+# Files that should be automatically ignored (not saved) in the repository
+
+# Ignore temporary files from editors.
+
+*.swp
+*.swo
+
+# Office temporary files.
+
+*.tmp
+
+# Word
+#~$*.doc*
+# Excel
+#~$*.xls*
+# PowerPoint
+#~$*.ppt*
+~$*
