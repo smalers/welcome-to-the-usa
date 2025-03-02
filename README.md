@@ -1,7 +1,7 @@
 # welcome-to-the-usa #
 
 *   [Introduction](#introduction)
-*   [1956](#1956]) 
+*   [1956](#1956) 
 
 -------------------
 
