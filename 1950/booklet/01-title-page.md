@@ -4,9 +4,8 @@
 
 *on the occassion of his Naturalization*
 
-M-76   
-1955   
-Revised 1956   
 ---
 UNITED STATES DEPARTMENT OF JUSTICE   
-IMMIGRATION AND NATURALIZATION SERVICE
+J. Howard McGrath, Attorney General   
+IMMIGRATION AND NATURALIZATION SERVICE   
+Argyle R. Mackey, Acting Commissioner
