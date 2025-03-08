@@ -12,11 +12,11 @@
 Dear Fellow Citizen:
 
 It is my happy privilege to share in the momentous
-occassion of your becoming a citizen of the United States, not
+occasion of your becoming a citizen of the United States, not
 only through my official representative but also this personal
 word of welcome.
 
-The Department of Justice, thorugh the Immigration
+The Department of Justice, through the Immigration
 and Naturalization Service, is charged with assisting persons
 seeking naturalization.  It has, therefore, been the pleasant
 duty of members of our official family to work with you during
