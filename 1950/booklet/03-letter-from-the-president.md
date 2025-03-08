@@ -11,12 +11,12 @@ to you a sincere welcome as you join the ranks of a great
 body of free men.
 
 Transferring allegiance from one's native land to
-another country is a solumn undertaking, not lightly to be
+another country is a solemn undertaking, not lightly to be
 entered into.  You have learned that ours is a Government of,
 by, and for the people.  Because this is so, your American
 citizenship is a very real and personal thing.
 
-In accepting it you have pedged your loyalty and
+In accepting it you have pledged your loyalty and
 allegiance not to a single person or to a cold and impersonal
 government, but to more than 150,000,000 other Americans -- to
 your next door neighbor, to the other members of your community,
